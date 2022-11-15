@@ -1,2 +1,2 @@
 # NLP_ML
-Personal projects (main: NLP)
+Personal projects in preparing for my Masters studies & change of direction in life
