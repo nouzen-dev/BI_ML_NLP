@@ -12,6 +12,11 @@ computationally expensive.
 A future improvement is to devise more specific regular expressions for different use cases in data cleaning for performance improvement & efficiency.
 
 ## Visualizations:
-
-
+<img src="https://github.com/nouzen-dev/ML_NLP/blob/main/4_Prediction of Text Extraction from Tweets for Sentiment Labeling/images/jaccard.JPG" alt="alt text" width="500"/>
+<img src="https://github.com/nouzen-dev/ML_NLP/blob/main/4_Prediction of Text Extraction from Tweets for Sentiment Labeling/images/sentiment.JPG" alt="alt text" width="500"/> 
+<img src="https://github.com/nouzen-dev/ML_NLP/blob/main/4_Prediction of Text Extraction from Tweets for Sentiment Labeling/images/sentiment_2.JPG" alt="alt text" width="500"/>
+<img src="https://github.com/nouzen-dev/ML_NLP/blob/main/4_Prediction of Text Extraction from Tweets for Sentiment Labeling/images/sentiment_3.JPG" alt="alt text" width="500"/>
+<img src="https://github.com/nouzen-dev/ML_NLP/blob/main/4_Prediction of Text Extraction from Tweets for Sentiment Labeling/images/venn.JPG" alt="alt text" width="500"/>
+<img src="https://github.com/nouzen-dev/ML_NLP/blob/main/4_Prediction of Text Extraction from Tweets for Sentiment Labeling/images/unique.JPG" alt="alt text" width="500"/>
+<img src="https://github.com/nouzen-dev/ML_NLP/blob/main/4_Prediction of Text Extraction from Tweets for Sentiment Labeling/images/simpletransfomers_Q%26A_data_format.JPG" alt="alt text" width="500"/>
 
