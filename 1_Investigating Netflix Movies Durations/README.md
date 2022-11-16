@@ -13,7 +13,10 @@ For example, perhaps a collaborative filtering/ user-interaction based one that 
 customized user experience. 
 
 ## Visualizations:
-
+<img src="https://github.com/nouzen-dev/ML_NLP/blob/main/1_Investigating Netflix Movies Durations/images/why.jpg" alt="alt text" width="400"/> <img src="https://github.com/nouzen-dev/ML_NLP/blob/main/1_Investigating Netflix Movies Durations/images/barchart.JPG" alt="alt text" width="800"/>
+<img src="https://github.com/nouzen-dev/ML_NLP/blob/main/1_Investigating Netflix Movies Durations/images/wordcloud.JPG" alt="alt text" width="400"/>
+<img src="https://github.com/nouzen-dev/ML_NLP/blob/main/1_Investigating Netflix Movies Durations/images/recommender.JPG" alt="alt text" width="600"/>
+<img src="https://github.com/nouzen-dev/ML_NLP/blob/main/1_Investigating Netflix Movies Durations/images/Content-based-filtering-vs-collaborative-filtering.png" alt="alt text" width="500"/>
 
 
 
