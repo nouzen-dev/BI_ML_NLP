@@ -15,6 +15,10 @@ A future improvement is to perform deeper analysis of hyperparameters & use Grid
 
 
 ## Visualizations:
-
+<img src="https://github.com/nouzen-dev/ML_NLP/blob/main/2_Classify Song Genres from Audio Data/images/pie.JPG" alt="alt text" width="500"/> 
+<img src="https://github.com/nouzen-dev/ML_NLP/blob/main/2_Classify Song Genres from Audio Data/images/correlation.JPG" alt="alt text" width="500"/>
+<img src="https://github.com/nouzen-dev/ML_NLP/blob/main/2_Classify Song Genres from Audio Data/images/box.JPG" alt="alt text" width="500"/>
+<img src="https://github.com/nouzen-dev/ML_NLP/blob/main/2_Classify Song Genres from Audio Data/images/tweaking.JPG" alt="alt text" width="500"/>
+<img src="https://github.com/nouzen-dev/ML_NLP/blob/main/2_Classify Song Genres from Audio Data/images/kmeans.JPG" alt="alt text" width="500"/>
 
 
