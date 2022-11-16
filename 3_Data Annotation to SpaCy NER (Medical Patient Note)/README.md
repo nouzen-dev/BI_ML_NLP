@@ -15,6 +15,11 @@ me to increase the size of training data from 14300 to 33518 rows, & used SpaCy.
 A future improvement is to explore the use of unsupervised machine learning to reduce (missing annotations in the future. 
 
 ## Visualizations:
-
+<img src="https://github.com/nouzen-dev/ML_NLP/blob/main/3_Data Annotation to SpaCy NER (Medical Patient Note)/images/feature.JPG" alt="alt text" width="800"/> 
+<img src="https://github.com/nouzen-dev/ML_NLP/blob/main/3_Data Annotation to SpaCy NER (Medical Patient Note)/images/trigram.JPG" alt="alt text" width="800"/>
+<img src="https://github.com/nouzen-dev/ML_NLP/blob/main/3_Data Annotation to SpaCy NER (Medical Patient Note)/images/case.JPG" alt="alt text" width="500"/>
+<img src="https://github.com/nouzen-dev/ML_NLP/blob/main/3_Data Annotation to SpaCy NER (Medical Patient Note)/images/case_2.JPG" alt="alt text" width="500"/>
+<img src="https://github.com/nouzen-dev/ML_NLP/blob/main/3_Data Annotation to SpaCy NER (Medical Patient Note)/images/annotate_1.JPG" alt="alt text" width="650"/>
+<img src="https://github.com/nouzen-dev/ML_NLP/blob/main/3_Data Annotation to SpaCy NER (Medical Patient Note)/images/annotate_2.JPG" alt="alt text" width="650"/>
 
 
