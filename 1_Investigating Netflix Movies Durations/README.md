@@ -19,5 +19,5 @@ customized user experience.
 <img src="https://github.com/nouzen-dev/ML_NLP/blob/main/1_Investigating Netflix Movies Durations/images/recommender.JPG" alt="alt text" width="500"/>
 <img src="https://github.com/nouzen-dev/ML_NLP/blob/main/1_Investigating Netflix Movies Durations/images/Content-based-filtering-vs-collaborative-filtering.png" alt="alt text" width="500"/>
 
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
