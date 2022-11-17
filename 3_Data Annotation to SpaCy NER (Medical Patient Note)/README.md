@@ -22,4 +22,4 @@ A future improvement is to explore the use of unsupervised machine learning to r
 <img src="https://github.com/nouzen-dev/ML_NLP/blob/main/3_Data Annotation to SpaCy NER (Medical Patient Note)/images/annotate_1.JPG" alt="alt text" width="650"/>
 <img src="https://github.com/nouzen-dev/ML_NLP/blob/main/3_Data Annotation to SpaCy NER (Medical Patient Note)/images/annotate_2.JPG" alt="alt text" width="650"/>
 
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
