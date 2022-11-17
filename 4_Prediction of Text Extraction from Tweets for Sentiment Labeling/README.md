@@ -20,3 +20,4 @@ A future improvement is to devise more specific regular expressions for differen
 <img src="https://github.com/nouzen-dev/ML_NLP/blob/main/4_Prediction of Text Extraction from Tweets for Sentiment Labeling/images/unique.JPG" alt="alt text" width="500"/>
 <img src="https://github.com/nouzen-dev/ML_NLP/blob/main/4_Prediction of Text Extraction from Tweets for Sentiment Labeling/images/simpletransfomers_Q%26A_data_format.JPG" alt="alt text" width="500"/>
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
